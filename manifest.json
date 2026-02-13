@@ -1,2 +1,8 @@
-<link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#000000">
+{
+  "name": "Metal Gear Solid Master Collection Vol.2 Countdown",
+  "short_name": "MGSMC VOL2",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
